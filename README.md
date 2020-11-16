@@ -1,3 +1,26 @@
+# 本项目fork自[Repo: lingaoqiming](https://github.com/lingaoqiming/lingaoqiming.github.com)，做了一点微小的工作：
+
+
+## 简述
+
+想在kindle上随时随地地看《临高启明》，但是网上的电子书质量参差不齐。
+
+原项目提供了一种整合的方法，但是需要使用emeditor，并且也不是很好使。
+
+故自己写了一个Python的整合脚本genarate_html.py，可以将小说中的内容合并为一个HTML文件，并且带有目录索引与反向索引（即每一节的目录带有超链接，点击可以返回目录部分），方便跳节阅读。
+
+为了方便进一步取用，上传了一份已经整合好的html文件：临高启明（自排版）.html
+
+## 后续处理
+
+html文件依然无法阅读，但是有一个网站提供了多种电子文档格式的转换功能：https://www.onlineconverter.com/html-to-mobi
+
+进入该网站，根据需要选择对应的转换工具（往下翻页可见），按照要求上传文件，并点击convert，等一段时间后，就可以从该网页下载相应版本的电子书文件了。虽然比较慢，但是好在省心。
+
+
+# 原repository的README.md内容如下：
+
+
 小说《临高启明》的网站
 ======================
 
